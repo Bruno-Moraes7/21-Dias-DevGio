@@ -19,4 +19,11 @@ if(idade >= 18){
 
 let IMC = peso / (altura * altura) 
 
+alert(IMC)
 
+let contador = 10;
+
+do {
+    console.log(contador);
+    contador--;
+} while (contador > 0);
